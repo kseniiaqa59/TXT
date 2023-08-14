@@ -1,1 +1,18 @@
-
+Id: "BR1"
+Summary:"The language of the page on the Login and Registration pages does not change"
+Pre-conditions: "Open the site https://exe.ua/,The user must not be logged in"
+Steps: 
+        1.Click on the login button
+        2.Click on the  button 'Ukr' t in the upper right part of the page
+        3.Click on the button 'Eng'  in the upper right part of the page
+        4.Click on the button 'registration' in the upper right part of the page"
+        5.Click on the button 'Ukr' in the upper right part of the page
+        "6.Click on the button 'Eng' in the upper right part of the page
+Expected result: "The page must be translated into the appropriate language"
+Actual result: "Changing the localisation does not work"
+Post-condition: -
+Environment: "Version 112.0.5615.49 (Official Build) (x86_64), all browsers"
+Severity: "Low"
+Priority: "Low"
+Type of bug: "Localisation"
+Attachment: "Add attachment"
