@@ -1,0 +1,4 @@
+name: Arendarenko Kseniia Vladimirovna
+age: 32,
+count_pets: 2
+salary: 5000$
